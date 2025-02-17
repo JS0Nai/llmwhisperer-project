@@ -8,7 +8,7 @@ A robust PDF processing pipeline using LLMWhisperer for high-quality text extrac
 
 ## Setup
 
-1. Create and activate virtual environment:
+1 - Create and activate virtual environment:
 
 ```bash
 python -m venv .venv
@@ -19,13 +19,13 @@ source .venv/bin/activate  # On Mac/Linux
 git clone https://github.com/JS0Nai/llmwhisperer-project.git
 ```
 
-2.Install requirements:
+2 - Install requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3.Create a `.env` file with your API key:
+3 - Create a `.env` file with your API key:
 
 LLMWHISPERER_API_KEY=your_key_here
 OPENAI_API_KEY=your_key_here
