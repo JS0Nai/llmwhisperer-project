@@ -15,6 +15,8 @@ python -m venv .venv
 source .venv/bin/activate  # On Mac/Linux
 # or
 .\.venv\Scripts\activate  # On Windows
+
+git clone https://github.com/JS0Nai/llmwhisperer-project.git
 ```
 
 2.Install requirements:
